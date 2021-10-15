@@ -1,2 +1,6 @@
-# pythin-vd
-#whitelist
+# python repo
+
+
+master
+salesman
+insane
